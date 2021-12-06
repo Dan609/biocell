@@ -10,3 +10,5 @@ In the bTau.csv file, the data is presented in a "long" format: each measurement
 Files DF2.csv, FetMSC.csv, MSCWJ-1.csv, and ADH-MSC.csv contain data with averaged bTau values (m = 20 for each passage) for each cell line separately.
 
 In the Computation.R file there is a script in R language for intrapolation and extrapolation of missing values, as well as for calculating the correlation coefficients of Pearson, Spearman, and Kendall.
+
+The RhoA-Nuc_coloc.pzfx file contains the data necessary for drawing graphs in the Graph Pad Prism program.
