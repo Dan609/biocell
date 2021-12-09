@@ -13,6 +13,8 @@ Files _interpolated.csv contain data with averaged bTau values (n = 20 for each 
 
 Files DF2_long.csv, FetMSC_long.csv, MSCWJ-1_long.csv, and ADH-MSC_long.csv contain data with bTau values for each cell line separately, there are also data on beta-galactosidase (percentage of stained cells), with filled NAs using linear extrapolation and interpolation methods, with each measurement assigned one value characteristic of a given passage. These files were used to compute bTau/bGal correlations.
 
+The bTau_bGal_DT_all.csv file contains all the data for the four studied cell lines: bTau colocalization of RhoA and nuclei, beta-galactosidase level, and the doubling time of the cell population at different passages - both the results of measurements in experiments, and the results of applying linear extrapolation and interpolation to fill in the missing values.
+
 In the Computation.R file there is a script in R language for intrapolation and extrapolation of missing values, as well as for calculating the correlation coefficients of Pearson, Spearman, and Kendall.
 
 The RhoA-Nuc_coloc.pzfx file contains the data necessary for drawing graphs in the Graph Pad Prism program.
