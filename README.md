@@ -1,5 +1,6 @@
 # The RhoA nuclear localization changes in replicative senescence: new evidence from in vitro human mesenchymal stem cells studies
 ## DANILA BOBKOV; ANASTASIA POLYANSKAYA; ANASTASIA MUSORINA; GALINA POLJANSKAYA
+## BIOCELL, 2022, DOI: 10.32604/biocell.2022.019469
 ### bobkov@incras.ru
 
 Data and scripts for calculating correlations
